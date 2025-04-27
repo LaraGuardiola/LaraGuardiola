@@ -27,4 +27,4 @@ Electron, Ollama
 * Classic game clones
 * Personalized tools
 
-* 📫 How to reach me: [webdev.slara@gmail.com]
+📫 How to reach me: [webdev.slara@gmail.com]
