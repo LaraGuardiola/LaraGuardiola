@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Sergio, an experienced frontend developer with 4+ years building web applications and a passion for creating intuitive user interfaces. Specialized in Angular ecosystem with production experience across multiple versions (9-17). Comfortable working with modern frontend architecture patterns and real-time applications.
+I'm Sergio, an experienced frontend developer with 4+ years building web applications and user interfaces. Specialized in Angular ecosystem with production experience across multiple versions (9-17). Comfortable working with modern frontend architecture patterns and real-time applications, basically if it has JavaScript in it, i'm in.
 
 🔧 Tech Stack
 Frontend:
