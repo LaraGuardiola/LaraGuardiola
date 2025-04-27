@@ -19,14 +19,12 @@ Electron, Ollama
 
 💻 What do I Build in Here?
 
-Interactive web applications with real-time capabilities
-LLM interfaces and chat applications
-Payment gateway integrations
-Authentication systems
-Desktop applications with Electron
-Bots for Telegram and WhatsApp
-Web scrapers and automation tools
-Classic game clones
-Personalized tools
+* Interactive web applications with real-time capabilities
+* LLM interfaces and chat applications
+* Desktop applications with Electron
+* Bots for Telegram and WhatsApp
+* Web scrapers and automation tools
+* Classic game clones
+* Personalized tools
 
 * 📫 How to reach me: [webdev.slara@gmail.com]
